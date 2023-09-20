@@ -1,0 +1,14 @@
+.cards_container {
+  width: 100%;
+  display: flex;
+  align-items: center;
+  gap: 16px;
+}
+.main {
+  max-width: 1024px;
+  margin: 0 auto;
+  padding: 16px;
+  display: flex;
+  flex-direction: column;
+  gap: 16px;
+}
